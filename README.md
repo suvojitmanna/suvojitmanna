@@ -67,7 +67,7 @@ I am a **Computer Science and Engineering (B.Tech)** student and a Full Stack ME
 
 # 🚀 Featured Engineering Projects
 
-### [InterviewIQ.AI](YOUR_REPO_LINK) | *React, Firebase, OAuth*
+### [InterviewIQ.AI](https://github.com/suvojitmanna/AI-Interview) | *React, Firebase, OAuth*
 Platform designed for conducting automated AI mock interviews.
 - Implemented secure authentication workflows utilizing Google login integrations.
 - Built complex user tracking features and dynamic credit balance popups.
@@ -79,18 +79,18 @@ Web-based real-time messaging application.
 - Engineered functional chat windows with robust media uploading capabilities.
 - Refined UI components including custom emoji pickers and Framer Motion animations.
 
-### [Food Delivery Platform](YOUR_REPO_LINK) | *MERN Stack, Razorpay*
+### [Food Delivery Platform](https://github.com/suvojitmanna/Food-Delivery) | *MERN Stack, Razorpay*
 Production-ready food ordering platform.
 - Integrated a secure payment gateway (Razorpay) and live map-based order tracking.
 - Developed comprehensive delivery management dashboards and user wallet/coupon processing.
 
-### [Interactive Resume Builder](YOUR_REPO_LINK) | *React, CSS*
+### [Interactive Resume Builder](https://github.com/suvojitmanna/Ai-Resume-Build) | *React, CSS*
 Application with structured modules for generating professional resumes.
 - Built interactive modules for personal information, employment history, and skills tracking.
 - Designed custom print stylesheets to handle automated, pixel-perfect PDF resume generation.
 - Implemented strict data validation protocols within React components.
 
-### [AssistGPT](YOUR_REPO_LINK) | *AI, Web Speech API*
+### [AssistGPT](https://github.com/suvojitmanna/assistgpt) | *AI, Web Speech API*
 AI Voice Assistant powered by Google Gemini.
 - Engineered wake-word detection and accurate speech recognition capabilities.
 - Integrated seamless text generation, voice responses, and AI image generation workflows.
