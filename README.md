@@ -73,7 +73,7 @@ Platform designed for conducting automated AI mock interviews.
 - Built complex user tracking features and dynamic credit balance popups.
 - Developed interactive, real-time user dashboard layouts.
 
-### [Real-Time WhatsApp Clone](YOUR_REPO_LINK) | *MERN, Zustand, Socket.io, Tailwind*
+### [Real-Time WhatsApp Clone](https://github.com/suvojitmanna/whatsApp_clone) | *MERN, Zustand, Socket.io, Tailwind*
 Web-based real-time messaging application.
 - Architected seamless real-time state management and socket connections for live messaging.
 - Engineered functional chat windows with robust media uploading capabilities.
