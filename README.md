@@ -75,8 +75,7 @@ I am a **Computer Science and Engineering (B.Tech) student** and a **Full Stack 
 ### DevOps & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode,figma" alt="Developer tools" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode,figma,vercel" alt="Developer tools" />
   <img
     src="https://cdn.simpleicons.org/render/8B5CF6"
     width="48"
